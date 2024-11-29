@@ -3,7 +3,7 @@
 This repository hosts various Tableau-based projects focused on creating insightful data visualizations. The first project is dedicated to visualizing the **London Bike Rides** dataset. More projects will be added in future phases, each showcasing different data analysis and visualization skills using Tableau.
 
 ## Current Project
-- **London Bike Rides**: Visualizations include interactive dashboards, charts, and maps created with [Tableau] (https://public.tableau.com/app/profile/debjyoti.saha7710/viz/LondonBikeRides_17326909971380/Dashboard1).
+- **London Bike Rides**: Visualizations include interactive dashboards, charts, and maps created with [Tableau] (https://public.tableau.com/app/profile/debjyoti.saha7710/viz/LondonBikeRides_17326909971380/LondonBikeRides).
 
 ## Future Projects
 Stay tuned for upcoming projects that will explore different datasets and visualization techniques.
