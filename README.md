@@ -4,7 +4,7 @@ This repository hosts various Tableau-based projects focused on creating insight
 
 ## Current Project
 - **London Bike Rides**: Visualizations include interactive dashboards, charts, and maps created with [Tableau] (https://public.tableau.com/app/profile/debjyoti.saha7710/viz/LondonBikeRides_17326909971380/LondonBikeRides).
-- **British Airways Review Dashbaord**: Tableau dashboard which includes ratings of BA according to their staffs, food, aircraft, etc. (https://public.tableau.com/app/profile/debjyoti.saha7710/viz/BritishAirwaysReviewDashboard_17336416346170/BAReviews)
+- **British Airways Review Dashboard**: Tableau dashboard which includes ratings of BA according to their staffs, food, aircraft, etc. (https://public.tableau.com/app/profile/debjyoti.saha7710/viz/BritishAirwaysReviewDashboard_17336416346170/BAReviews)
 
 ## Future Projects
 Stay tuned for upcoming projects that will explore different datasets and visualization techniques.
